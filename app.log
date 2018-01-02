@@ -1,0 +1,44 @@
+10:38:58.725 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:38:58.725 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:38:58.725 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+10:39:18.078 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:39:18.078 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:39:18.078 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+10:41:09.446 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:41:09.446 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:41:09.446 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = {12,50,85}
+10:44:40.734 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:44:40.734 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:44:40.734 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+10:44:53.867 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:44:53.867 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:45:18.195 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:45:18.195 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:45:31.393 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:45:31.408 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:45:31.408 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+10:48:24.185 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+10:48:24.185 [main] INFO  dev.console.App -
+				Implémentation Logback
+10:48:24.185 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
